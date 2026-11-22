@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-PHOTONICS",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "618b3260a21c7a3cd54edd0e2bb4242bb167c89711251bc825a8dfbbca88d903"
+    "sha256": "0157aa5f02bcc7cb251d628e2f1c1c9863832fd548c0d87f1d43480817cd883a"
   }
 }

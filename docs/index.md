@@ -12,4 +12,6 @@ CIRCUIT-PHOTONICS — repository foundation
 
 Circuit Photonics is being built as the conditional specialist repository for integrated silicon and silicon-nitride photonic circuits — executing `gdsfactory` waveguide layout and bend-curvature design-rule checks, separate-process `Meep` finite-difference time-domain verification, coupled 3D thermo-optic crosstalk sign-off and `sax` statistical wavelength/phase corner sweeps — completely deterministically without requiring AI. Its current executable surface is repository validation tooling. It has no installed photonic layout builder, FDTD verification runner, S-matrix corner analyser or qualified record schema.
 
+Circuit Photonics is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
