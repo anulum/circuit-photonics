@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic integrated photonic circuit layout and verification: waveguide curvature and port-alignment checks, separate-process FDTD electromagnetic verification, thermo-optic crosstalk coupling and statistical wavelength and phase S-matrix corner analysis. No photonic layout builder, FDTD verification runner, S-matrix corner analyser or qualified record schema is released.",
+  "keywords": [
+    "integrated photonics",
+    "waveguide FDTD verification",
+    "optical S-matrix corners",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Photonics",
+  "upload_type": "software"
+}
