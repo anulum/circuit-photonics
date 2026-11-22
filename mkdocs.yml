@@ -9,6 +9,7 @@
 site_name: Circuit Photonics
 site_description: Architecture and repository foundation for deterministic photonic layout, waveguide curvature DRC, FDTD simulation and statistical S-matrix corners
 strict: true
+copyright: Concepts © 1996–2026 and code © 2020–2026 Miroslav Šotek · AGPL-3.0-or-later, commercial licence available
 site_dir: .tool-cache/site
 exclude_docs: |
   /internal/
